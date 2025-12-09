@@ -15,4 +15,10 @@ public class Hello {
      public String greet2(int userid) {
         return "Hello, " + userid + "!";
     }
+
+    public String greet3(int userid) {
+        return "Hello, " + userid + "!";
+    }
+
+    
 }
